@@ -2,6 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+/[Ii]nstaller/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -52,6 +53,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
+*.exe
 *.apk
 *.unitypackage
 
